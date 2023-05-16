@@ -19,4 +19,36 @@ Aproximacion caso de uso
 ![Diagramas de flujo](https://github.com/Viryi1810/demo.github.io/assets/132966483/7351a30e-f26b-4554-a097-b696fc6e8231)
 
 #### Aproximacion seudocodigo
+-Inicio
+  -Caracteres: identificaciones [50], nombres [50], apellidos [50]
+  -Real: horasTrabajadas [50], sueldoXHora [50]
+  -Caracteres: identificacion, nombre, apellido
+  -Entero: numeroEmpleados, i
+  -Real: horas, sueldo, total<- 0
+  -Imprimir: 'Digite el numero de empleados:'
+  -Asignar: numeroEmpleados
+  -Para i=0 hasta numeroEmpleados - 1, 1
+  -Imprimir: 'Digite la identificacion del empleado:'
+  -Asignar: identificacion
+  -Imprimir: 'Digite el nombre del empleado:'
+  -Asignar: nombre
+  -Imprimir: 'Digite el apellido del empleado:'
+  -Asignar: apellido
+  -Imprimir: 'Digite el numero de horas trabajadas del empleado:'
+  -Asignar: horas
+  -Imprimir: 'Digite el sueldo por hora del empleado:'
+  -Asignar: sueldo
+  -identificaciones[i] <- identificacion
+  -nombres[i] <- identificacion
+  -identificaciones[i] <- nombre
+  -apellidos[i] <- apellido
+  -horasTrabajadas[i] <- horas
+  -sueldoXHora[i] <- sueldo
+  -finPara
+  -Para i=0 hasta numeroEmpleados -1, 1
+  -total <-
+  -total + (horasTrabajadas[i])sueldoXHora[i]
+  -finPara
+  -Imprimir: 'El total es: + total
+-Fin
 
