@@ -6,6 +6,12 @@ Desarrollo de una aplicacion de inventarios que necesita un coordinador de logis
 + Se realiza validacion y verificacion de los datos de los productos 
 
 ### Analisis de ejercicio
+Aproximación Plantilla Historia de Usuario:
+<img width="940" alt="Historia_1" src="https://github.com/Viryi1810/demo.github.io/assets/132966483/0cd943b6-8b58-495d-a7bc-e0b837f35a3f">
+<img width="960" alt="Historia_2" src="https://github.com/Viryi1810/demo.github.io/assets/132966483/11c1448a-7913-467f-bcc6-086a195a49b4">
+<img width="960" alt="Historia_3" src="https://github.com/Viryi1810/demo.github.io/assets/132966483/08ff2fe7-b577-4a81-9014-f709ae099db3">
+
+
 Aproximacion caso de uso 
 ![Diagrama de caso de uso](https://github.com/Viryi1810/demo.github.io/assets/132966483/74baddd1-b34d-49fe-ab35-5233adb8799b)
 
