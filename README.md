@@ -11,3 +11,6 @@ Aproximacion caso de uso
 
 ### Aproximacion diagrama de flujo
 ![Diagramas de flujo](https://github.com/Viryi1810/demo.github.io/assets/132966483/7351a30e-f26b-4554-a097-b696fc6e8231)
+
+#### Aproximacion seudocodigo
+
