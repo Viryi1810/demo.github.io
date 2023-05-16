@@ -41,5 +41,5 @@ Aproximacion caso de uso
   - total + (productos[i] + ventas[i]
   - finPara
   - Imprimir: 'El total es: + total
--Fin
+- Fin
 
